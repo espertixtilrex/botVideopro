@@ -1,4 +1,4 @@
-global.DeveloperMode = 'false' //true Or false
+global.DeveloperMode = 'true' //true Or false
 global.owner = [ '573155283012','573163664721','573213844393','573132536210', '573132582315'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
 
 
