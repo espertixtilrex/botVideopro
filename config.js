@@ -1,5 +1,5 @@
 global.DeveloperMode = 'true' //true Or false
-global.owner = [ '573155283012','573163664721','573213844393','573132536210','573132582315','5491173618515','@','5491136825803','34631105683'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
+global.owner = [ '573155283012','573163664721','573213844393','573132536210','573132582315','5491173618515','@','5491136825803','34631105683','584120918824','5356732445','5493755636956','5492273426086','5493541384166','5493498460622','50257354366'] // Cambia los numeros por tu o tus numeros a los cuales te comtactaran y gestionaras el Bot
 
 
 // Nota: Puedes contactarme si necesitas ayuda con algo al +5219996125657 (este es mi numero personal/real bloqueo personas que no sean temas de la instalación)
