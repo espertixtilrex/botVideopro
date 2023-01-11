@@ -121,7 +121,7 @@ global.reloadHandler = function () {
     conn.off('group-participants-update', conn.onParticipantsUpdate)
     conn.off('CB:action,,call', conn.onCall)
   }
-  conn.welcome = '┏━━━━━━━━━━━━\n┃──〘 *BIENVENIDO NEA😎* 〙──\n┃━━━━━━━━━━━━\n┃ *_Kiubo 🐸sapoperro🐶 Bienvenido PA a este grupo 🔥 , espero le  guste o sino coma mier**💩 :v _*  \n┃\n┗━━━━━━━━━━━'
+  conn.welcome = '┏━━━━━━━━━━━━\n┃──〘 *BIENVENIDO* 〙──\n┃━━━━━━━━━━━━\n┃ *_Kiubo 🐸sapoperro🐶 Bienvenido PA a este grupo 🔥 , espero le  guste o sino coma mier**💩 :v _*  \n┃\n┗━━━━━━━━━━━'
   conn.bye = '┏━━━━━━━━━━━━\n┃──〘 *UN MARICA 👉👌 MENOS NI HACIA FALTA ESE CARECHIMBA* 〙───\n┃━━━━━━━━━━━━\n┃ ☠ *vaya dele culo a su tio Bv*\n┗━━━━━━━━━━'
   conn.spromote = '@user Bienvenido al olimpo de los dioses 7u7'
   conn.sdemote = '@user Ni modo qlo, pa´la otra será :v'
